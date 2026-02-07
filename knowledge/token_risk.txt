@@ -1,0 +1,3 @@
+API tokens and access keys provide direct system access.
+If leaked, attackers may gain unauthorized control.
+Immediate token revocation is recommended.

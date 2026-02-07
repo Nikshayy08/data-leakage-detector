@@ -1,0 +1,3 @@
+Email exposure can lead to phishing and identity attacks.
+Emails combined with other leaked data increase overall security risk.
+

@@ -1,0 +1,2 @@
+Phone numbers can be used for phishing and SIM swap attacks.
+When combined with other data, they increase identity risk.
